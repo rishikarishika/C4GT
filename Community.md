@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Rishika</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/rishikarishika</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td></td>
+  </tr>
+</table>
